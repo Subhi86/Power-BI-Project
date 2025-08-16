@@ -4,7 +4,7 @@ This project is an interactive business dashboard built with Power BI, designed 
 
 # **Features:**
 
-**.**  Revenue: Displays total revenue generated.
+##  Revenue: Displays total revenue generated.
 
 **.**  Profit: Shows overall profit earned.
 
