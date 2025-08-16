@@ -15,8 +15,8 @@ This project is an interactive business dashboard built with Power BI, designed 
 **.**  Revenue per Customer: Shows the average revenue generated per customer.
 
 
-![Dashboard Screenshot](dashboard1.png)
-![Dashboard Screenshot](dashboard2.png)
-![Dashboard Screenshot](dashboard3.png)
-![Dashboard Screenshot](dashboard4.png)
+![Dashboard Screenshot](dashboard_1.png)
+![Dashboard Screenshot](dashboard_2.png)
+![Dashboard Screenshot](dashboard_3.png)
+![Dashboard Screenshot](dashboard_4.png)
 
