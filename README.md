@@ -14,6 +14,21 @@ This project is an interactive business dashboard built with Power BI, designed 
 
 **.**  Revenue per Customer: Shows the average revenue generated per customer.
 
+# Key Visualizations:
+
+Monthly Revenue: Line chart showing revenue growth over time with trend analysis.
+
+Total Profit and Adjusted Profit: Comparative line chart illustrating both total profit and adjusted profit performance.
+
+Return Rate: Area chart tracking the percentage of returned orders across time.
+
+Total Customers: Line chart showing customer growth across time.
+
+Top 100 Products Ordered, Returned: List of the most ordered products.
+
+Top 100 Customers: a ranked list of the top customers based on total orders and revenue contribution.
+
+
 # Screenshots:
 
 ![Dashboard Screenshot](Dashboard_1.png)
