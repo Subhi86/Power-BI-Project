@@ -13,3 +13,4 @@ This project is an interactive business dashboard built with Power BI, designed 
 **.**  Return Rate: Tracks the percentage of returned orders.
 
 **.**  Revenue per Customer: Shows the average revenue generated per customer.
+
