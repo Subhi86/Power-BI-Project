@@ -4,12 +4,12 @@ This project is an interactive business dashboard built with Power BI, designed 
 
 **Features:**
 
-.  Revenue: Displays total revenue generated.
+**.**  Revenue: Displays total revenue generated.
 
-.  Profit: Shows overall profit earned.
+**.**  Profit: Shows overall profit earned.
 
-.  Total Orders: Indicates the total number of completed orders.
+**.**  Total Orders: Indicates the total number of completed orders.
 
-.  Return Rate: Tracks the percentage of returned orders.
+**.**  Return Rate: Tracks the percentage of returned orders.
 
-.  Revenue per Customer: Shows the average revenue generated per customer.
+**.**  Revenue per Customer: Shows the average revenue generated per customer.
