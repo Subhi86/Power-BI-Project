@@ -16,7 +16,7 @@ This project is an interactive business dashboard built with Power BI, designed 
 
 
 ![Dashboard Screenshot](Dashboard_1.png)
-![Dashboard Screenshot](dashboard_2.png)
-![Dashboard Screenshot](dashboard_3.png)
-![Dashboard Screenshot](dashboard_4.png)
+![Dashboard Screenshot](Dashboard_2.png)
+![Dashboard Screenshot](Dashboard_3.png)
+![Dashboard Screenshot](Dashboard_4.png)
 
